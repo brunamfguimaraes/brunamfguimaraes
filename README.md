@@ -8,7 +8,10 @@
     <li>Meu foco é uma oportunidade na área de desenvolvimento de software, onde poderei aplicar meus aprendizados e desenvolver novas habilidades, tanto técnicas como de comunicação.</li>
   </ul>
   </section>
+  
+ 
 ## Me contate
+
 <span>
     <a href="https://www.linkedin.com/in/bruna-ferreira-138639196/" rel="nofollow">
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" width="4%" style="max-width: 100%;">
