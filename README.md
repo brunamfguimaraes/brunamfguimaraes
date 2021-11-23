@@ -16,4 +16,19 @@
     <a href="https://www.linkedin.com/in/bruna-ferreira-138639196/" rel="nofollow">
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" width="4%" style="max-width: 100%;">
     </a>
-  </span>
+</span>
+<span>
+    <a href="https://twitter.com/BrunnaEngland" rel="nofollow">
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" width="4%" style="max-width: 100%;">
+    </a>
+</span>
+<span>
+    <a href="https://www.instagram.com/brunna.england/" rel="nofollow">
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" width="4%" style="max-width: 100%;">
+      </a>
+</span>
+<span>
+    <a href="mailto:brunamfguimaraes@gmail.com?subject=Contato%20realizado%20pelo%20github">
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" width="4%" style="max-width: 100%;">
+      </a>
+</span>
