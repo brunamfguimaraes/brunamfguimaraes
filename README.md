@@ -82,5 +82,7 @@
       <img src="https://camo.githubusercontent.com/e71305aefee9d9ed7eaee86ef502980226ee843f73567ffa27a380537613adbf/68747470733a2f2f626c6f672e6b6172656e79696e672e636f6d2f7374617469632f62313766326230343930363839373937343161373935383832353061643863622f6e61762d6261722d776974682d646f742e706e67" width="9%" data-canonical-src="https://blog.karenying.com/static/b17f2b049068979741a79588250ad8cb/nav-bar-with-dot.png" style="max-width: 100%;">
    </a>
  </div>
- 
- ## Pinados
+ <img src="https://github-readme-stats.vercel.app/api?username=brunamfguimaraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" rel="nofollow">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunamfguimaraes&layout=compact&langs_count=7&theme=dracula" rel="nofollow"> 
+
+  ## Pinados
