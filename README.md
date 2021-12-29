@@ -84,5 +84,3 @@
  </div>
  <img src="https://github-readme-stats.vercel.app/api?username=brunamfguimaraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" rel="nofollow">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunamfguimaraes&layout=compact&langs_count=7&theme=dracula" rel="nofollow"> 
-
-  ## Pinados
