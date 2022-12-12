@@ -37,7 +37,8 @@
 ## Tecnologias
 
    <a href="https://elixir-lang.org/" rel="nofollow"> 
-      <img      src="https://camo.githubusercontent.com/72c27477f91493365e44b44306740892911721464f3f25d5b706c5deab24bfc2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f34383070782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" width="4.5%" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/9/92/Official_Elixir_logo.png" style="max-width: 100%;">
+      <img     
+      src="https://user-images.githubusercontent.com/25181517/192158304-db78a94b-ceb3-4b03-a352-b25760e5e63c.png" width="4.5%" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/9/92/Official_Elixir_logo.png" style="max-width: 100%;">
    </a>
 
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" rel="nofollow"> 
