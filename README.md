@@ -2,10 +2,11 @@
 
 <section>
   <ul align="left" dir="auto">
-    <li>Tenho 28 anos e moro em Valinhos-SP</li>
-    <li>Estudo Desenvolvimento Web na escola de programação Trybe, onde aprendo hard & soft skills. A metodologia de ensino é focada totalmente na prática.</li>
+    <li>Tenho 29 anos e moro em Itapeva-SP</li>
+    <li>Me formei em Desenvolvimento Web na Trybe e agora trabalho lá!</li>
+    <li>Agora estou trabalhando com Elixir. :D </li>
     <li>Meus hobbies são ver filmes e séries, ouvir música e ler.</li>
-    <li>Meu foco é uma oportunidade na área de desenvolvimento de software, onde poderei aplicar meus aprendizados e desenvolver novas habilidades, tanto técnicas como de comunicação.</li>
+    <li>Meu foco é me aperfeiçoar cada vez mais na área de desenvolvimento de software, onde poderei aplicar meus aprendizados e desenvolver novas habilidades, tanto técnicas como de comunicação.</li>
   </ul>
   </section>
   
