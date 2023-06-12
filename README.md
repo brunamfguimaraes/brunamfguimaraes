@@ -3,8 +3,8 @@
 <section>
   <ul align="left" dir="auto">
     <li>Tenho 29 anos e moro em Itapeva-SP</li>
-    <li>Me formei em Desenvolvimento Web na Trybe e agora trabalho lá!</li>
-    <li>Trabalhando usando Elixir. :) </li>
+    <li>Me formei em Desenvolvimento Web na Trybe e trabalhei lá!</li>
+    <li>Trabalhei usando Elixir. :) </li>
     <li>Meus hobbies são ver filmes e séries, ouvir música e ler.</li>
     <li>Meu foco é me aperfeiçoar cada vez mais na área de desenvolvimento de software, onde poderei aplicar meus aprendizados e desenvolver novas habilidades, tanto técnicas como de comunicação.</li>
   </ul>
