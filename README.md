@@ -2,7 +2,7 @@
 
 <section>
   <ul align="left" dir="auto">
-    <li>Tenho 29 anos e moro em Itapeva-SP</li>
+    <li>Tenho 30 anos e moro em Itapeva-SP</li>
     <li>Me formei em Desenvolvimento Web na Trybe e trabalhei lá!</li>
     <li>Trabalhei usando Elixir. :) </li>
     <li>Meus hobbies são ver filmes e séries, ouvir música e ler.</li>
