@@ -1,17 +1,17 @@
-# Olá, sou Bruna Ferreira!
+# Hello, i'm Bruna Ferreira!
 
 <section>
   <ul align="left" dir="auto">
-    <li>Tenho 30 anos e moro em Itapeva-SP</li>
-    <li>Me formei em Desenvolvimento Web na Trybe e trabalhei lá!</li>
-    <li>Trabalhei usando Elixir. :) </li>
-    <li>Meus hobbies são ver filmes e séries, ouvir música e ler.</li>
-    <li>Meu foco é me aperfeiçoar cada vez mais na área de desenvolvimento de software, onde poderei aplicar meus aprendizados e desenvolver novas habilidades, tanto técnicas como de comunicação.</li>
+    <li>I have 30 years old and i live in Itapeva-SP</li>
+    <li>I graduated in Web Development at Trybe e i worked there!</li>
+    <li>I worked using Elixir. :) </li>
+    <li>MY hobbies are watch movies and series, listen to music, read and spend time with my family.</li>
+    <li>My focus is to improve myself more and more in the area of software development, where I will be able to apply my learnings and develop new skills, both technical and soft.</li>
   </ul>
   </section>
   
  
-## Me contate
+## Contact me
 
 <span>
     <a href="https://www.linkedin.com/in/bruna-ferreira-138639196/" rel="nofollow">
@@ -34,7 +34,7 @@
       </a>
 </span>
 
-## Tecnologias
+## Technologies
 
    <a href="https://elixir-lang.org/" rel="nofollow"> 
       <img     
