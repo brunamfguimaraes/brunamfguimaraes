@@ -3,6 +3,7 @@
 <section>
   <ul align="left" dir="auto">
     <li>I have 30 years old and i live in Itapeva-SP</li>
+    <li>I am a Systems Analysis and Development Student at Universidade Cruzeiro do Sul</li>
     <li>I graduated in Web Development at Trybe e i worked there!</li>
     <li>I worked using Elixir. :) </li>
     <li>MY hobbies are watch movies and series, listen to music, read and spend time with my family.</li>
